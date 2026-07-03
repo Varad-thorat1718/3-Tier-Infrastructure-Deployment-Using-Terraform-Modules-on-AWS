@@ -1,0 +1,13 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+terraform.tfvars.backup
+*.pem
+*.log
+crash.log
+web-console-output.txt
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
